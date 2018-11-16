@@ -1,20 +1,85 @@
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
-var adaro = require('adaro');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
-var indexRouter = require('./routes/index');
+const bodyParser = require("body-parser");
+
+
+var AWS = require('aws-sdk');
+AWS.config.update({
+    region:'eu-west-1',
+    endpoint: "apigateway.eu-west-1.amazonaws.com",
+    credentials: new AWS.SharedIniFileCredentials()
+});
+var dynamodb = new AWS.DynamoDB();
+
+
+
+
+
+/* This example creates a table named Music. */
+//Rating,Category,Test type ,Count
+
+var params = {
+    TableName: "SERVEME",
+    AttributeDefinitions: [
+        {
+            AttributeName: "pKey",
+            AttributeType: "S"
+        },
+        {
+            AttributeName: "toolName",
+            AttributeType: "S"
+        }
+    ],
+    KeySchema: [
+        {
+            AttributeName: "toolName",
+            KeyType: "HASH"
+        },
+        {
+            AttributeName: "pKey",
+            KeyType: "Range"
+        }
+
+    ],
+    ProvisionedThroughput: {
+        ReadCapacityUnits: 5,
+        WriteCapacityUnits: 5
+    }
+};
+
+// dynamodb.createTable(params, function(err, data) {
+//     console.log(params.KeySchema);
+//     if (err) console.log(err, err.stack); // an error occurred
+//     else     console.log(data);           // successful response
+// });
+
 
 var app = express();
 
+/** bodyParser.urlencoded(options)
+ * Parses the text as URL encoded data (which is how browsers tend to send form data from regular forms set to POST)
+ * and exposes the resulting object (containing the keys and values) on req.body
+ */
+app.use(bodyParser.urlencoded({
+    extended: true
+}));
+
+/**bodyParser.json(options)
+ * Parses the text as JSON and exposes the resulting object on req.body.
+ */
+app.use(bodyParser.json());
+
 app.use(logger('dev'));
 app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+var indexRouter = require('./routes/index');
 app.use('/SERVEME', indexRouter);
 
 // catch 404 and forward to error handler

@@ -1,0 +1,240 @@
+vulnId,osvdbTitle,IP,formattedRisk,firstSeenDate,lastSeenDate,status
+140546,CVE-2015-0412 - Oracle - Java SE - Unspecified Issue,10.506.35.133,High,45:24.0,45:24.0,opened
+95247,SNMP Responds to Any Community Name,10.506.35.143,High,17:06.0,23:09.0,opened
+140546,CVE-2015-0412 - Oracle - Java SE - Unspecified Issue,10.506.35.68,High,31:15.0,41:20.0,opened
+140546,CVE-2015-0412 - Oracle - Java SE - Unspecified Issue,10.506.35.69,High,25:27.0,21:39.0,opened
+140546,CVE-2015-0412 - Oracle - Java SE - Unspecified Issue,10.506.35.71,High,24:35.0,19:33.0,opened
+203846,F5 BIG-IP Client SSL plaintext recovery information disclosure,10.506.35.72,High,15:18.0,15:18.0,opened
+95295,Portmapper - Potential Problem Typically Unused Service,10.506.35.73,High,11:03.0,06:44.0,opened
+109380,CVE-2012-1713 - Oracle - Multiple Products - Unspecified Issue,10.506.35.74,High,15:18.0,15:18.0,opened
+95295,Portmapper - Potential Problem Typically Unused Service,10.506.35.75,High,12:22.0,09:02.0,opened
+140546,CVE-2015-0412 - Oracle - Java SE - Unspecified Issue,10.506.35.76,High,33:04.0,33:04.0,opened
+95247,SNMP Responds to Any Community Name,10.506.35.82,High,17:04.0,03:33.0,opened
+95295,Portmapper - Potential Problem Typically Unused Service,10.506.35.83,High,30:44.0,08:41.0,opened
+140546,CVE-2015-0412 - Oracle - Java SE - Unspecified Issue,10.506.35.84,High,32:53.0,32:53.0,opened
+140546,CVE-2015-0412 - Oracle - Java SE - Unspecified Issue,10.506.35.85,High,33:46.0,33:46.0,opened
+95301,Port Access Control Circumvention via FTP - Bounce Attack,10.506.35.86,High,13:15.0,13:15.0,opened
+174979,Python HTTP_PROXY environment variable HTTP traffic redirect,10.506.35.87,High,47:35.0,55:06.0,opened
+95247,SNMP Responds to Any Community Name,10.506.35.133,High,17:06.0,22:48.0,opened
+88648,CVE-2012-2532 - MS12-073 - Microsoft - IIS - Information Disclosure Issue,10.506.35.143,Medium,35:35.0,38:51.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.68,Medium,35:35.0,38:51.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.69,Medium,39:15.0,36:09.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.71,Medium,39:15.0,36:09.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.72,Medium,35:47.0,36:09.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.73,Medium,39:15.0,36:09.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.74,Medium,23:35.0,47:43.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,Medium,23:35.0,47:43.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,Medium,23:35.0,47:43.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,Medium,23:15.0,46:06.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,Medium,23:15.0,46:06.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.84,Medium,23:15.0,46:06.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,Medium,32:24.0,42:21.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.143,Medium,32:24.0,42:21.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,Medium,32:24.0,42:21.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.69,Medium,19:20.0,44:31.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.71,Medium,19:20.0,44:31.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,Medium,19:20.0,44:31.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.73,Medium,56:12.0,20:17.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,Medium,56:12.0,20:17.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.75,Medium,56:12.0,20:17.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,Medium,13:43.0,43:10.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.82,Medium,13:43.0,43:10.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,Medium,13:43.0,43:10.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.84,Medium,35:36.0,35:49.0,opened
+210920,CVE-2018-1000169 - Jenkins - Jenkins - Medium,10.506.35.85,Medium,09:01.0,35:17.0,opened
+208395,CVE-2018-6356 - Jenkins - Jenkins - Medium,10.506.35.86,Medium,09:01.0,35:17.0,opened
+208409,CVE-2018-1000068 - Jenkins - Jenkins - Medium,10.506.35.87,Medium,09:01.0,35:17.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,Medium,03:41.0,20:18.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.143,Medium,03:41.0,20:18.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,Medium,03:41.0,20:18.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.69,Medium,46:37.0,50:09.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.71,Medium,46:37.0,50:09.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.72,Medium,34:31.0,50:09.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.73,Medium,46:37.0,50:09.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,Medium,00:10.0,13:45.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.75,Medium,00:10.0,13:45.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,Medium,00:10.0,13:45.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,Medium,29:59.0,42:50.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,Medium,29:59.0,42:50.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.84,Medium,29:59.0,42:50.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.133,Medium,03:42.0,00:19.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.143,Medium,53:16.0,13:11.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,Medium,53:16.0,13:11.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.69,Medium,45:24.0,45:24.0,opened
+137475,CVE-2014-3566 - TLS.SSLv3 Fallback - The POODLE attack,10.506.35.71,Medium,45:24.0,45:24.0,opened
+162646,REJECTED - CVE-2015-4000 - TLS Protocol - Logjam Issue,10.506.35.72,Medium,45:24.0,45:24.0,opened
+162644,CVE-2015-4000 - TLS Protocol - Logjam Issue,10.506.35.73,Medium,45:24.0,45:24.0,opened
+34421,Websense Web Security and Web Filter Apache Tomcat information disclosure,10.506.35.74,Medium,45:24.0,45:24.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.75,Medium,45:24.0,45:24.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.76,Medium,45:24.0,45:24.0,opened
+162603,TLS Diffie-Hellman Key Exchange information disclosure,10.506.35.82,Medium,45:24.0,45:24.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.83,Medium,45:24.0,45:24.0,opened
+161204,CVE-2015-2808 - RC4 Algorithm - Bar Mitzvah Issue,10.506.35.84,Medium,45:24.0,45:24.0,opened
+92441,CVE-2013-2566 - RC4 - Plaintext-Recovery Issue,10.506.35.85,Medium,45:24.0,45:24.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.86,Medium,56:26.0,10:13.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.87,Medium,56:26.0,10:13.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.133,Medium,56:26.0,10:13.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.143,Medium,12:03.0,40:34.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,Medium,12:03.0,40:34.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.69,Medium,23:01.0,54:29.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.71,Medium,00:52.0,23:03.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.72,Medium,00:52.0,23:03.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.73,Medium,00:52.0,23:03.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.74,Medium,12:23.0,39:02.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,Medium,12:23.0,39:02.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,Medium,12:23.0,39:02.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.82,Medium,10:34.0,39:23.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.83,Medium,10:34.0,39:23.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.84,Medium,10:34.0,39:23.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.133,Medium,12:23.0,38:21.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,Medium,12:23.0,38:21.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.68,Medium,12:23.0,38:21.0,opened
+205998,CVE-2017-5753 - Multiple Vendors - Processors - Spectre Issue,10.506.35.69,Medium,57:07.0,02:30.0,opened
+206000,CVE-2017-5715 - Intel - Processors - Spectre Issue,10.506.35.71,Medium,57:07.0,02:30.0,opened
+205682,CVE-2017-4941 - VMware - Multiple Products - Stack Overflow Issue,10.506.35.72,Medium,57:07.0,02:30.0,opened
+205681,CVE-2017-4940 - Vmware - Esxi - Medium,10.506.35.73,Medium,57:07.0,02:30.0,opened
+208998,CVE-2017-5753 - Intel - Processors - Spectre Issue,10.506.35.74,Medium,57:07.0,02:30.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.75,Medium,35:27.0,25:04.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.76,Medium,25:13.0,19:37.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,Medium,25:13.0,19:37.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,Medium,25:13.0,19:37.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.84,Medium,05:54.0,35:27.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.85,Medium,05:54.0,35:27.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.86,Medium,05:54.0,35:27.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.87,Medium,42:47.0,13:49.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.133,Medium,42:47.0,13:49.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.143,Medium,42:47.0,13:49.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,Medium,14:57.0,08:39.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.69,Medium,14:57.0,08:39.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.71,Medium,14:57.0,08:39.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.72,Medium,26:56.0,52:26.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.73,Medium,28:36.0,46:06.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.74,Medium,28:36.0,46:06.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.75,Medium,28:36.0,46:06.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.76,Medium,00:06.0,17:00.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,Medium,30:21.0,04:38.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,Medium,30:21.0,04:38.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.84,Medium,30:21.0,04:38.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,Medium,35:18.0,08:35.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.143,Medium,35:18.0,08:35.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,Medium,35:18.0,08:35.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.69,Medium,44:44.0,44:44.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.71,Medium,44:44.0,44:44.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.72,Medium,44:44.0,44:44.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.73,Medium,44:44.0,44:44.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.74,Medium,28:45.0,08:48.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,Medium,28:45.0,08:48.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,Medium,28:45.0,08:48.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.82,Medium,12:59.0,43:36.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.83,Medium,26:02.0,43:36.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.84,Medium,12:59.0,43:36.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.85,Medium,37:09.0,25:03.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.86,Medium,59:31.0,35:49.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.87,Medium,59:31.0,35:49.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.133,Medium,59:31.0,35:49.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.143,Medium,50:46.0,38:51.0,opened
+49946,Microsoft Windows 2000 Terminal Services man-in-the-middle attack,10.506.35.68,Medium,04:42.0,31:39.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.69,Medium,32:43.0,25:45.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.71,Medium,51:45.0,17:51.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.72,Medium,51:45.0,17:51.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.73,Medium,51:45.0,17:51.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.74,Medium,52:29.0,09:19.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,Medium,52:29.0,09:19.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.76,Medium,52:29.0,09:19.0,opened
+137475,CVE-2014-3566 - TLS.SSLv3 Fallback - The POODLE attack,10.506.35.82,Medium,33:46.0,33:46.0,opened
+161204,CVE-2015-2808 - RC4 Algorithm - Bar Mitzvah Issue,10.506.35.83,Medium,33:46.0,33:46.0,opened
+92441,CVE-2013-2566 - RC4 - Plaintext-Recovery Issue,10.506.35.84,Medium,33:46.0,33:46.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,Medium,37:21.0,19:16.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,Medium,37:21.0,19:16.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.68,Medium,37:21.0,19:16.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.69,Medium,22:47.0,48:24.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.71,Medium,22:47.0,48:24.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,Medium,22:47.0,48:24.0,opened
+205998,CVE-2017-5753 - Multiple Vendors - Processors - Spectre Issue,10.506.35.73,Medium,53:59.0,01:28.0,opened
+205682,CVE-2017-4941 - VMware - Multiple Products - Stack Overflow Issue,10.506.35.74,Medium,53:59.0,01:28.0,opened
+206000,CVE-2017-5715 - Intel - Processors - Spectre Issue,10.506.35.75,Medium,53:59.0,01:28.0,opened
+208998,CVE-2017-5753 - Intel - Processors - Spectre Issue,10.506.35.76,Medium,53:59.0,01:28.0,opened
+88648,CVE-2012-2532 - MS12-073 - Microsoft - IIS - Information Disclosure Issue,10.506.35.82,Medium,22:34.0,51:26.0,opened
+205681,CVE-2017-4940 - Vmware - Esxi - Medium,10.506.35.83,Medium,53:59.0,01:28.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.84,Medium,22:34.0,51:26.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.85,Medium,33:08.0,35:30.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.86,Medium,33:08.0,35:30.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.87,Medium,33:08.0,35:30.0,opened
+88648,CVE-2012-2532 - MS12-073 - Microsoft - IIS - Information Disclosure Issue,10.506.35.133,Medium,03:42.0,00:19.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.143,Medium,53:16.0,13:11.0,opened
+137475,CVE-2014-3566 - TLS.SSLv3 Fallback - The POODLE attack,10.506.35.68,Medium,05:34.0,40:51.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.69,Medium,42:56.0,40:51.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.71,Medium,42:56.0,40:51.0,opened
+92441,CVE-2013-2566 - RC4 - Plaintext-Recovery Issue,10.506.35.72,Medium,05:34.0,40:51.0,opened
+161204,CVE-2015-2808 - RC4 Algorithm - Bar Mitzvah Issue,10.506.35.73,Medium,05:34.0,40:51.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.74,Medium,05:34.0,40:51.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,Medium,42:56.0,40:51.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.76,Medium,31:29.0,41:32.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,Medium,31:29.0,41:32.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.83,Medium,31:29.0,41:32.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.84,Medium,29:33.0,24:23.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.133,Medium,34:12.0,29:49.0,opened
+137475,CVE-2014-3566 - TLS.SSLv3 Fallback - The POODLE attack,10.506.35.143,Medium,33:04.0,33:04.0,opened
+92441,CVE-2013-2566 - RC4 - Plaintext-Recovery Issue,10.506.35.68,Medium,33:04.0,33:04.0,opened
+161204,CVE-2015-2808 - RC4 Algorithm - Bar Mitzvah Issue,10.506.35.69,Medium,33:04.0,33:04.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.71,Medium,28:57.0,01:50.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.72,Medium,03:27.0,01:50.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.73,Medium,28:57.0,01:50.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.74,Medium,08:35.0,35:07.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.75,Medium,08:35.0,35:07.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.76,Medium,08:35.0,35:07.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.82,Medium,18:33.0,50:41.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.83,Medium,18:33.0,50:41.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.84,Medium,18:33.0,50:41.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.85,Medium,35:53.0,19:16.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.86,Medium,35:53.0,19:16.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.87,Medium,35:53.0,19:16.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.133,Medium,45:01.0,31:33.0,opened
+137475,CVE-2014-3566 - TLS.SSLv3 Fallback - The POODLE attack,10.506.35.143,Medium,24:35.0,19:33.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.68,Medium,39:57.0,27:46.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.69,Medium,17:31.0,47:02.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.71,Medium,17:31.0,47:02.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,Medium,17:31.0,47:02.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.73,Medium,17:18.0,40:13.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,Medium,24:47.0,01:16.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.75,Medium,24:47.0,01:16.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.76,Medium,24:47.0,01:16.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,Medium,24:48.0,35:49.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.83,Medium,24:48.0,35:49.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.84,Medium,24:48.0,35:49.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.133,Medium,16:48.0,08:52.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.143,Medium,16:48.0,08:52.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,Medium,16:48.0,08:52.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.69,Medium,30:15.0,23:22.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.71,Medium,45:18.0,13:28.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,Medium,45:18.0,13:28.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.73,Medium,45:18.0,13:28.0,opened
+161204,CVE-2015-2808 - RC4 Algorithm - Bar Mitzvah Issue,10.506.35.74,Medium,32:53.0,32:53.0,opened
+137475,CVE-2014-3566 - TLS.SSLv3 Fallback - The POODLE attack,10.506.35.75,Medium,32:53.0,32:53.0,opened
+92441,CVE-2013-2566 - RC4 - Plaintext-Recovery Issue,10.506.35.76,Medium,32:53.0,32:53.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.82,Medium,34:07.0,04:59.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.83,Medium,34:07.0,04:59.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.84,Medium,34:07.0,04:59.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.85,Medium,34:52.0,17:41.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.86,Medium,03:11.0,26:31.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.87,Medium,03:11.0,26:31.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.133,Medium,03:11.0,26:31.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.143,Medium,37:20.0,35:14.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.68,Medium,37:20.0,35:14.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.69,Medium,45:08.0,35:14.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.71,Medium,29:05.0,27:26.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.72,Medium,28:39.0,28:48.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.73,Medium,15:22.0,30:14.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.74,Medium,34:30.0,30:14.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.75,Medium,34:30.0,30:14.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.76,Medium,34:30.0,30:14.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,Medium,35:18.0,15:39.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.83,Medium,35:18.0,15:39.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.84,Medium,35:18.0,15:39.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.133,Medium,57:50.0,20:18.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,Medium,57:50.0,20:18.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.68,Medium,57:50.0,20:18.0,opened
+44305,RFC 1321 MD5 algorithm weak security,10.506.35.69,Medium,26:27.0,09:26.0,opened
+100902,CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.71,Medium,26:27.0,09:26.0,opened
+101808,IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.72,Medium,26:27.0,09:26.0,opened
+8076,CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.73,Medium,56:06.0,57:29.0,opened
