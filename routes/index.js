@@ -26,10 +26,10 @@ router.get('/results', function(req, res, next) {
 
         } else {
             console.log("Query succeeded.");
-            var newdata = {
+            var newData = {
                 results: data.Items
             };
-            res.json(returnString)
+            res.json(newData)
         }
     });
 });
