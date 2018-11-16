@@ -9,7 +9,7 @@ const csv = require('fast-csv');
 
 router.get('/results', function(req, res, next) {
     var params = {
-        TableName : "SERVEME",
+        TableName : "SERVEME2",
         KeyConditionExpression: "#tool = :tool",
         ExpressionAttributeNames:{
             "#tool": "toolName"
@@ -50,7 +50,7 @@ router.get('/populateVA1807', function(req, res, next) {
                     return;
                 }
                 var params = {
-                    TableName:"SERVEME",
+                    TableName:"SERVEME2",
                     Item:{
                         "pKey": uuid.v4(),
                         "toolName": "fortifyOnDemand",
@@ -90,7 +90,7 @@ router.get('/populateVA2', function(req, res, next) {
                     return;
                 }
                 var params = {
-                    TableName:"SERVEME",
+                    TableName:"SERVEME2",
                     Item:{
                         "pKey": uuid.v4(),
                         "toolName": "vulnerabilities2",
@@ -130,7 +130,7 @@ router.get('/populateVA3', function(req, res, next) {
                     return;
                 }
                 var params = {
-                    TableName:"SERVEME",
+                    TableName:"SERVEME2",
                     Item:{
                         "pKey": uuid.v4(),
                         "toolName": "vulnerabilities3",

@@ -19,7 +19,7 @@ var dynamodb = new AWS.DynamoDB();
 //Rating,Category,Test type ,Count
 
 var params = {
-    TableName: "SERVEME",
+    TableName: "SERVEME2",
     AttributeDefinitions: [
         {
             AttributeName: "pKey",
