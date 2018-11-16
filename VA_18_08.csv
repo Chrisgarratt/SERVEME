@@ -1,0 +1,784 @@
+osvdbTitle,IP,status,lastSeenDate,assignedToUser,firstSeenDate,vulnId,formattedRisk
+CVE-2015-0412 - Oracle - Java SE - Unspecified Issue,10.506.35.133,opened,2018-08-25 09:22:44.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:24:35.0,140546,High
+CVE-2015-0412 - Oracle - Java SE - Unspecified Issue,10.506.35.143,opened,2018-08-25 22:59:19.0, jaroslaw.dobiech@comarch.pl,2018-05-19 23:38:29.0,140546,High
+SNMP Responds to Any Community Name,10.506.35.68,opened,2018-08-25 09:38:31.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,95247,High
+CVE-2015-0412 - Oracle - Java SE - Unspecified Issue,10.506.35.69,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,140546,High
+SNMP Responds to Any Community Name,10.506.35.71,opened,2018-08-25 09:38:13.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,95247,High
+Python HTTP_PROXY environment variable HTTP traffic redirect,10.506.35.72,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2017-09-09 09:47:35.0,174979,High
+CVE-2015-0412 - Oracle - Java SE - Unspecified Issue,10.506.35.73,opened,2018-08-25 16:53:04.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:31:15.0,140546,High
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.74,opened,2018-08-25 09:38:30.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:10:03.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.75,opened,2018-08-25 09:42:06.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:19:16.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.76,opened,2018-08-25 09:16:14.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:09:43.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.82,opened,2018-08-25 09:16:14.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:09:43.0,49220,Low
+ICMP netmask request response,10.506.35.83,opened,2018-08-25 19:02:52.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:44:44.0,15571,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.84,opened,2018-08-25 21:38:54.0, jaroslaw.dobiech@comarch.pl,2017-01-08 10:42:17.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.85,opened,2018-08-25 09:41:32.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:08:42.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.86,opened,2018-08-25 21:35:07.0, jaroslaw.dobiech@comarch.pl,2017-01-08 06:39:07.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.87,opened,2018-08-25 18:46:21.0, jaroslaw.dobiech@comarch.pl,2017-01-08 10:39:51.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.133,opened,2018-08-25 09:12:32.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:12:03.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.143,opened,2018-08-25 09:16:52.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:10:03.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.68,opened,2018-08-25 21:45:53.0, jaroslaw.dobiech@comarch.pl,2017-01-08 06:42:12.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.69,opened,2018-08-25 18:46:21.0, jaroslaw.dobiech@comarch.pl,2017-01-08 10:39:51.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.71,opened,2018-08-25 21:45:53.0, jaroslaw.dobiech@comarch.pl,2017-01-08 06:42:12.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.72,opened,2018-08-25 09:12:32.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:12:03.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.73,opened,2018-08-25 09:41:32.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:08:42.0,49220,Low
+ICMP netmask request response,10.506.35.74,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,15571,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.75,opened,2018-08-25 21:35:07.0, jaroslaw.dobiech@comarch.pl,2017-01-08 06:39:07.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.76,opened,2018-08-25 09:44:29.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.82,opened,2018-08-25 09:41:46.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:12:23.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.83,opened,2018-08-25 09:41:46.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:12:23.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.84,opened,2018-08-25 09:43:35.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:14:04.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.133,opened,2018-08-25 09:43:35.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:14:04.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.143,opened,2018-08-25 09:44:29.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.68,opened,2018-08-25 09:38:31.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,49220,Low
+CVE-2018-1000170 - Jenkins - Jenkins - Low,10.506.35.69,opened,2018-08-25 19:19:35.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:09:01.0,210918,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.71,opened,2018-08-25 09:20:50.0, jaroslaw.dobiech@comarch.pl,2017-01-08 10:32:54.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.72,opened,2018-08-25 09:20:50.0, jaroslaw.dobiech@comarch.pl,2017-01-08 10:32:54.0,49220,Low
+SNMP_Set used Public Community Name to change system information,10.506.35.73,opened,2018-08-25 09:38:31.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,142,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.74,opened,2018-08-25 09:38:31.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.75,opened,2018-08-25 09:38:30.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:10:03.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.76,opened,2018-08-25 09:42:06.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:19:16.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.82,opened,2018-08-25 09:09:13.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:15:44.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.83,opened,2018-08-25 09:09:13.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:15:44.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.84,opened,2018-08-25 21:38:54.0, jaroslaw.dobiech@comarch.pl,2017-01-08 10:42:17.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.85,opened,2018-08-25 09:13:16.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:10:43.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.86,opened,2018-08-25 09:41:42.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:19:03.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.87,opened,2018-08-25 09:15:35.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:13:03.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.133,opened,2018-08-25 09:15:35.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:13:03.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.143,opened,2018-08-25 09:18:12.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:14:24.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.68,opened,2018-08-25 09:18:12.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:14:24.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.69,opened,2018-08-25 09:48:44.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:35.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.71,opened,2018-08-25 09:48:44.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:35.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.72,opened,2018-08-25 09:42:28.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.73,opened,2018-08-25 09:42:28.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.74,opened,2018-08-25 09:52:33.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:18:22.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.75,opened,2018-08-25 09:52:33.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:18:22.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.76,opened,2018-08-25 09:41:42.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:19:03.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.82,opened,2018-08-25 09:41:22.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:08:22.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.83,opened,2018-08-25 09:41:22.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:08:22.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.84,opened,2018-08-25 09:48:32.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.133,opened,2018-08-25 09:48:32.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.143,opened,2018-08-25 09:49:35.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:18:03.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.68,opened,2018-08-25 09:49:35.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:18:03.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.69,opened,2018-08-25 09:38:13.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,49220,Low
+CVE-2007-1835 - Apache - Tomcat - Information Disclosure Issue,10.506.35.71,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,99974,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.72,opened,2018-08-25 09:38:13.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,101865,Low
+SNMP_Set used Public Community Name to change system information,10.506.35.73,opened,2018-08-25 09:38:13.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,142,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.74,opened,2018-08-25 09:13:16.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:10:43.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.75,opened,2018-08-25 22:05:26.0, jaroslaw.dobiech@comarch.pl,2017-01-08 06:08:30.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.76,opened,2018-08-25 17:13:47.0, jaroslaw.dobiech@comarch.pl,2017-01-08 10:10:15.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.82,opened,2018-08-25 09:21:02.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:34.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.83,opened,2018-08-25 09:21:02.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:34.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.84,opened,2018-08-25 19:03:15.0, jaroslaw.dobiech@comarch.pl,2017-01-08 10:47:47.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.85,opened,2018-08-25 19:03:15.0, jaroslaw.dobiech@comarch.pl,2017-01-08 10:47:47.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.86,opened,2018-08-25 09:42:22.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:12:43.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.87,opened,2018-08-25 09:42:22.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:12:43.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.133,opened,2018-08-25 17:13:47.0, jaroslaw.dobiech@comarch.pl,2017-01-08 10:10:15.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.143,opened,2018-08-25 18:40:04.0, jaroslaw.dobiech@comarch.pl,2017-01-08 10:59:05.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.68,opened,2018-08-25 22:05:26.0, jaroslaw.dobiech@comarch.pl,2017-01-08 06:08:30.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.69,opened,2018-08-25 18:40:04.0, jaroslaw.dobiech@comarch.pl,2017-01-08 10:59:05.0,49220,Low
+CVE-2017-4925 - VMware - Multiple Products - Denial of Service Issue,10.506.35.71,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2018-02-24 21:55:28.0,201018,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.72,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2017-07-08 08:53:23.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.73,opened,2018-08-25 09:15:13.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:05.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.74,opened,2018-08-25 09:15:13.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:05.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.75,opened,2018-08-25 20:39:50.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:33:12.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.76,opened,2018-08-25 09:43:35.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:13:43.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.82,opened,2018-08-25 09:21:09.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:21:33.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.83,opened,2018-08-25 09:09:41.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:16:04.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.84,opened,2018-08-25 20:39:50.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:33:12.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.133,opened,2018-08-25 09:09:41.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:16:04.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.143,opened,2018-08-25 09:49:07.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.68,opened,2018-08-25 09:49:07.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:06.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.69,opened,2018-08-25 09:37:25.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:15:04.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.71,opened,2018-08-25 09:37:25.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:15:04.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.72,opened,2018-08-25 09:22:44.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:24:35.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.73,opened,2018-08-25 09:22:44.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:24:35.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.74,opened,2018-08-25 09:43:35.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:13:43.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.75,opened,2018-08-25 09:16:52.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:10:03.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.76,opened,2018-08-25 09:21:09.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:21:33.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.82,opened,2018-08-25 09:15:35.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:13:23.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.83,opened,2018-08-25 09:15:35.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:13:23.0,101865,Low
+CVE-2016-7055 - OpenSSL - Denial of Service Issue,10.506.35.84,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2017-09-09 09:47:35.0,178212,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.85,opened,2018-08-25 09:36:02.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:15:24.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.86,opened,2018-08-25 09:36:02.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:15:24.0,101865,Low
+ICMP time stamp request,10.506.35.87,opened,2018-08-25 19:02:52.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:44:44.0,15570,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.133,opened,2018-08-25 09:19:07.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:14:24.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.143,opened,2018-08-25 09:19:07.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:14:24.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.68,opened,2018-08-25 09:21:17.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:18:11.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.69,opened,2018-08-25 09:21:17.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:18:11.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.71,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2017-07-08 08:53:23.0,49220,Low
+ICMP time stamp request,10.506.35.72,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,15570,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.73,opened,2018-08-25 09:48:40.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:12.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.74,opened,2018-08-25 09:20:55.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:21:03.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.75,opened,2018-08-25 09:48:40.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:17:12.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.76,opened,2018-08-25 09:38:45.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:12:23.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.82,opened,2018-08-25 09:20:55.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:21:03.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.83,opened,2018-08-25 09:38:45.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:12:23.0,101865,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.84,opened,2018-08-25 17:54:51.0, jaroslaw.dobiech@comarch.pl,2017-01-08 09:44:23.0,101865,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.133,opened,2018-08-25 17:25:52.0, jaroslaw.dobiech@comarch.pl,2017-01-08 09:32:43.0,49220,Low
+OpenSSH and multiple SSH Tectia products CBC mode information disclosure,10.506.35.143,opened,2018-08-25 17:54:51.0, jaroslaw.dobiech@comarch.pl,2017-01-08 09:44:23.0,49220,Low
+CVE-2008-5161 - SSH - Multiple Products - Information Disclosure Issue,10.506.35.68,opened,2018-08-25 17:25:52.0, jaroslaw.dobiech@comarch.pl,2017-01-08 09:32:43.0,101865,Low
+CVE-2013-2566 - RC4 - Plaintext-Recovery Issue,10.506.35.69,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,92441,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.71,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.72,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,44305,Medium
+CVE-2015-2808 - RC4 Algorithm - Bar Mitzvah Issue,10.506.35.73,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,161204,Medium
+CVE-2015-4000 - TLS Protocol - Logjam Issue,10.506.35.74,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,162644,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,101808,Medium
+REJECTED - CVE-2015-4000 - TLS Protocol - Logjam Issue,10.506.35.76,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,162646,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,opened,2018-08-25 17:23:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:56:26.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,opened,2018-08-25 17:23:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:56:26.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 17:23:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:56:26.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.85,opened,2018-08-25 16:46:46.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:35:35.0,8076,Medium
+CVE-2012-2532 - MS12-073 - Microsoft - IIS - Information Disclosure Issue,10.506.35.86,opened,2018-08-25 16:46:46.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:35:35.0,88648,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.87,opened,2018-08-25 18:51:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:39:15.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,opened,2018-08-25 18:51:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:39:15.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.143,opened,2018-08-25 18:51:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:39:15.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.68,opened,2018-08-25 18:51:35.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:35:47.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.69,opened,2018-08-25 18:00:38.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:23:35.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.71,opened,2018-08-25 18:00:38.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:23:35.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.72,opened,2018-08-25 18:00:38.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:23:35.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.73,opened,2018-08-25 18:00:59.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:23:15.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.74,opened,2018-08-25 18:00:59.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:23:15.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,opened,2018-08-25 18:00:59.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:23:15.0,101808,Medium
+Microsoft Windows 2000 Terminal Services man-in-the-middle attack,10.506.35.76,opened,2018-08-25 16:25:42.0, jaroslaw.dobiech@comarch.pl,2017-03-04 12:26:20.0,49946,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,opened,2018-08-25 17:22:42.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:53:16.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.83,opened,2018-08-25 17:22:42.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:53:16.0,44305,Medium
+Websense Web Security and Web Filter Apache Tomcat information disclosure,10.506.35.84,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,34421,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,100902,Medium
+TLS Diffie-Hellman Key Exchange information disclosure,10.506.35.143,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,162603,Medium
+CVE-2014-3566 - TLS.SSLv3 Fallback - The POODLE attack,10.506.35.68,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,137475,Medium
+CVE-2014-3566 - TLS.SSLv3 Fallback - The POODLE attack,10.506.35.69,opened,2018-08-25 16:30:19.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:54:36.0,137475,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.71,opened,2018-08-25 16:30:19.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:54:36.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.72,opened,2018-08-25 19:15:52.0, jaroslaw.dobiech@comarch.pl,2017-09-09 15:23:01.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.73,opened,2018-08-25 16:26:23.0, jaroslaw.dobiech@comarch.pl,2017-03-04 12:27:20.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.74,opened,2018-08-25 18:35:17.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:00:52.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,opened,2018-08-25 18:35:17.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:00:52.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,opened,2018-08-25 18:35:17.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:00:52.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.82,opened,2018-08-25 17:54:51.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:12:23.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.83,opened,2018-08-25 17:54:51.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:12:23.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.84,opened,2018-08-25 17:54:51.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:12:23.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.85,opened,2018-08-25 17:54:51.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:10:34.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.86,opened,2018-08-25 17:54:51.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:10:34.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.87,opened,2018-08-25 17:54:51.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:10:34.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,opened,2018-08-25 17:51:09.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:12:23.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 17:51:09.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:12:23.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.68,opened,2018-08-25 17:51:09.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:12:23.0,44305,Medium
+CVE-2017-5753 - Multiple Vendors - Processors - Spectre Issue,10.506.35.69,opened,2018-08-25 21:41:32.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:57:07.0,205998,Medium
+CVE-2017-4941 - VMware - Multiple Products - Stack Overflow Issue,10.506.35.71,opened,2018-08-25 21:41:32.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:57:07.0,205682,Medium
+CVE-2017-5753 - Intel - Processors - Spectre Issue,10.506.35.72,opened,2018-08-25 21:41:32.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:57:07.0,208998,Medium
+CVE-2017-5715 - Intel - Processors - Spectre Issue,10.506.35.73,opened,2018-08-25 21:41:32.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:57:07.0,206000,Medium
+CVE-2017-4940 - Vmware - Esxi - Medium,10.506.35.74,opened,2018-08-25 21:41:32.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:57:07.0,205681,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.75,opened,2018-08-25 16:37:04.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:35:27.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.76,opened,2018-08-25 18:35:38.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:25:13.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,opened,2018-08-25 18:35:38.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:25:13.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,opened,2018-08-25 18:35:38.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:25:13.0,101808,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.84,opened,2018-08-25 17:46:04.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:05:54.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.133,opened,2018-08-25 17:46:04.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:05:54.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.143,opened,2018-08-25 17:46:04.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:05:54.0,100902,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.68,opened,2018-08-25 18:25:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:42:47.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.69,opened,2018-08-25 18:25:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:42:47.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.71,opened,2018-08-25 18:25:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:42:47.0,101808,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.72,opened,2018-08-25 21:59:03.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:14:57.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.73,opened,2018-08-25 21:59:03.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:14:57.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.74,opened,2018-08-25 21:59:03.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:14:57.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.75,opened,2018-08-25 19:11:49.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:26:56.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,opened,2018-08-25 17:35:54.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:28:36.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.82,opened,2018-08-25 17:35:54.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:28:36.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,opened,2018-08-25 17:35:54.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:28:36.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.84,opened,2018-08-25 16:18:23.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:00:06.0,8076,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.85,opened,2018-08-25 17:14:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:30:21.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.86,opened,2018-08-25 17:14:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:30:21.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.87,opened,2018-08-25 17:14:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:30:21.0,100902,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,opened,2018-08-25 18:13:05.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:35:18.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 18:13:05.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:35:18.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.68,opened,2018-08-25 18:13:05.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:35:18.0,44305,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.69,opened,2018-08-25 19:02:52.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:44:44.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.71,opened,2018-08-25 19:02:52.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:44:44.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,opened,2018-08-25 19:02:52.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:44:44.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.73,opened,2018-08-25 19:02:52.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:44:44.0,101808,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,opened,2018-08-25 21:35:07.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:28:45.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.75,opened,2018-08-25 21:35:07.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:28:45.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.76,opened,2018-08-25 21:35:07.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:28:45.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,opened,2018-08-25 16:50:23.0, jaroslaw.dobiech@comarch.pl,2017-04-08 11:12:59.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.83,opened,2018-08-25 16:50:23.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:26:02.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 16:50:23.0, jaroslaw.dobiech@comarch.pl,2017-04-08 11:12:59.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.133,opened,2018-08-25 16:27:24.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:37:09.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.143,opened,2018-08-25 18:57:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:59:31.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,opened,2018-08-25 18:57:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:59:31.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.69,opened,2018-08-25 18:57:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:59:31.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.71,opened,2018-08-25 16:24:06.0, jaroslaw.dobiech@comarch.pl,2017-03-04 12:22:48.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.72,opened,2018-08-25 16:24:06.0, jaroslaw.dobiech@comarch.pl,2017-03-04 12:22:48.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.73,opened,2018-08-25 16:24:06.0, jaroslaw.dobiech@comarch.pl,2017-03-04 12:22:48.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.74,opened,2018-08-25 16:24:06.0, jaroslaw.dobiech@comarch.pl,2017-03-04 12:22:48.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.75,opened,2018-08-25 16:45:24.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:50:46.0,8076,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.76,opened,2018-08-25 21:49:52.0, jaroslaw.dobiech@comarch.pl,2017-03-04 11:12:45.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.82,opened,2018-08-25 21:49:52.0, jaroslaw.dobiech@comarch.pl,2017-03-04 11:12:45.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.83,opened,2018-08-25 21:49:52.0, jaroslaw.dobiech@comarch.pl,2017-03-04 11:12:45.0,100902,Medium
+Microsoft Windows 2000 Terminal Services man-in-the-middle attack,10.506.35.84,opened,2018-08-25 18:47:16.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:04:42.0,49946,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.85,opened,2018-08-25 16:38:11.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:32:43.0,8076,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.86,opened,2018-08-25 18:28:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:51:45.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.87,opened,2018-08-25 18:28:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:51:45.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,opened,2018-08-25 18:28:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:51:45.0,100902,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.143,opened,2018-08-25 17:23:43.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:52:29.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.68,opened,2018-08-25 17:23:43.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:52:29.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.69,opened,2018-08-25 17:23:43.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:52:29.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.71,opened,2018-08-25 18:26:39.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:37:21.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.72,opened,2018-08-25 18:26:39.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:37:21.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.73,opened,2018-08-25 18:26:39.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:37:21.0,101808,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,opened,2018-08-25 17:57:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:22:47.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.75,opened,2018-08-25 17:57:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:22:47.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.76,opened,2018-08-25 17:57:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:22:47.0,44305,Medium
+CVE-2017-5753 - Intel - Processors - Spectre Issue,10.506.35.82,opened,2018-08-25 21:38:54.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:53:59.0,208998,Medium
+CVE-2017-4941 - VMware - Multiple Products - Stack Overflow Issue,10.506.35.83,opened,2018-08-25 21:38:54.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:53:59.0,205682,Medium
+CVE-2017-5715 - Intel - Processors - Spectre Issue,10.506.35.84,opened,2018-08-25 21:38:54.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:53:59.0,206000,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.133,opened,2018-08-25 19:11:25.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:22:34.0,8076,Medium
+CVE-2017-4940 - Vmware - Esxi - Medium,10.506.35.143,opened,2018-08-25 21:38:54.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:53:59.0,205681,Medium
+CVE-2017-5753 - Multiple Vendors - Processors - Spectre Issue,10.506.35.68,opened,2018-08-25 21:38:54.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:53:59.0,205998,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.69,opened,2018-08-25 18:06:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:33:08.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.71,opened,2018-08-25 18:06:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:33:08.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,opened,2018-08-25 18:06:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:33:08.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.73,opened,2018-08-25 19:19:27.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:03:42.0,8076,Medium
+CVE-2012-2532 - MS12-073 - Microsoft - IIS - Information Disclosure Issue,10.506.35.74,opened,2018-08-25 19:19:27.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:03:42.0,88648,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,opened,2018-08-25 17:22:42.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:53:16.0,101808,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.76,opened,2018-08-25 19:02:31.0, jaroslaw.dobiech@comarch.pl,2018-04-21 19:32:24.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,opened,2018-08-25 19:02:31.0, jaroslaw.dobiech@comarch.pl,2018-04-21 19:32:24.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.83,opened,2018-08-25 19:02:31.0, jaroslaw.dobiech@comarch.pl,2018-04-21 19:32:24.0,44305,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 17:56:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:19:20.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.85,opened,2018-08-25 17:56:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:19:20.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.86,opened,2018-08-25 17:56:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:19:20.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.87,opened,2018-08-25 18:46:21.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:56:12.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,opened,2018-08-25 18:46:21.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:56:12.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.143,opened,2018-08-25 18:46:21.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:56:12.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,opened,2018-08-25 17:56:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:13:43.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.69,opened,2018-08-25 17:56:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:13:43.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.71,opened,2018-08-25 17:56:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:13:43.0,44305,Medium
+CVE-2017-4941 - VMware - Multiple Products - Stack Overflow Issue,10.506.35.72,opened,2018-08-25 22:07:01.0, jaroslaw.dobiech@comarch.pl,2018-06-30 22:28:17.0,205682,Medium
+CVE-2017-5715 - Intel - Processors - Spectre Issue,10.506.35.73,opened,2018-08-25 22:07:01.0, jaroslaw.dobiech@comarch.pl,2018-06-30 22:28:17.0,206000,Medium
+CVE-2017-4940 - Vmware - Esxi - Medium,10.506.35.74,opened,2018-08-25 22:07:01.0, jaroslaw.dobiech@comarch.pl,2018-06-30 22:28:17.0,205681,Medium
+CVE-2017-5753 - Intel - Processors - Spectre Issue,10.506.35.75,opened,2018-08-25 22:07:01.0, jaroslaw.dobiech@comarch.pl,2018-06-30 22:28:17.0,208998,Medium
+CVE-2017-5753 - Multiple Vendors - Processors - Spectre Issue,10.506.35.76,opened,2018-08-25 22:07:01.0, jaroslaw.dobiech@comarch.pl,2018-06-30 22:28:17.0,205998,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.82,opened,2018-08-25 18:51:35.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:35:36.0,8076,Medium
+CVE-2018-6356 - Jenkins - Jenkins - Medium,10.506.35.83,opened,2018-08-25 19:19:35.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:09:01.0,208395,Medium
+CVE-2018-1000068 - Jenkins - Jenkins - Medium,10.506.35.84,opened,2018-08-25 19:19:35.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:09:01.0,208409,Medium
+CVE-2018-1000169 - Jenkins - Jenkins - Medium,10.506.35.133,opened,2018-08-25 19:19:35.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:09:01.0,210920,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 18:35:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:03:41.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.68,opened,2018-08-25 18:35:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:03:41.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.69,opened,2018-08-25 18:35:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:03:41.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.71,opened,2018-08-25 19:07:08.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:34:31.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,opened,2018-08-25 19:07:08.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:46:37.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.73,opened,2018-08-25 19:07:08.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:46:37.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,opened,2018-08-25 19:07:08.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:46:37.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.75,opened,2018-08-25 17:24:23.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:00:10.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.76,opened,2018-08-25 17:24:23.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:00:10.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,opened,2018-08-25 17:24:23.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:00:10.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,opened,2018-08-25 18:00:59.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:29:59.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.84,opened,2018-08-25 18:00:59.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:29:59.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.85,opened,2018-08-25 18:00:59.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:29:59.0,44305,Medium
+CVE-2014-3566 - TLS.SSLv3 Fallback - The POODLE attack,10.506.35.86,opened,2018-08-25 18:57:47.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:05:34.0,137475,Medium
+CVE-2013-2566 - RC4 - Plaintext-Recovery Issue,10.506.35.87,opened,2018-08-25 18:57:47.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:05:34.0,92441,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.133,opened,2018-08-25 18:57:47.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:05:34.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.143,opened,2018-08-25 18:57:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:42:56.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,opened,2018-08-25 18:57:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:42:56.0,101808,Medium
+CVE-2015-2808 - RC4 Algorithm - Bar Mitzvah Issue,10.506.35.69,opened,2018-08-25 18:57:47.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:05:34.0,161204,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.71,opened,2018-08-25 18:57:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:42:56.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,opened,2018-08-25 19:03:15.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:31:29.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.73,opened,2018-08-25 19:03:15.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:31:29.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,opened,2018-08-25 19:03:15.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:31:29.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.75,opened,2018-08-25 16:36:41.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:29:33.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.76,opened,2018-08-25 16:32:35.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:34:12.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.82,opened,2018-08-25 19:21:17.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:28:57.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.83,opened,2018-08-25 19:21:17.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:28:57.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.84,opened,2018-08-25 19:21:17.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:03:27.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.133,opened,2018-08-25 17:47:17.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:08:35.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 17:47:17.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:08:35.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.68,opened,2018-08-25 17:47:17.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:08:35.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.69,opened,2018-08-25 20:39:50.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:18:33.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.71,opened,2018-08-25 20:39:50.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:18:33.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,opened,2018-08-25 20:39:50.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:18:33.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.73,opened,2018-08-25 18:31:22.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:35:53.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,opened,2018-08-25 18:31:22.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:35:53.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.75,opened,2018-08-25 18:31:22.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:35:53.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.76,opened,2018-08-25 16:41:43.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:45:01.0,8076,Medium
+CVE-2014-3566 - TLS.SSLv3 Fallback - The POODLE attack,10.506.35.82,opened,2018-08-25 09:22:44.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:24:35.0,137475,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.83,opened,2018-08-25 16:35:20.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:39:57.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 17:35:33.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:17:31.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.85,opened,2018-08-25 17:35:33.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:17:31.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.86,opened,2018-08-25 17:35:33.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:17:31.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.87,opened,2018-08-25 16:47:06.0, jaroslaw.dobiech@comarch.pl,2016-12-11 03:17:18.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.133,opened,2018-08-25 17:07:14.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:24:47.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 17:07:14.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:24:47.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.68,opened,2018-08-25 17:07:14.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:24:47.0,100902,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.69,opened,2018-08-25 19:01:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:24:48.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.71,opened,2018-08-25 19:01:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:24:48.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.72,opened,2018-08-25 19:01:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:24:48.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.73,opened,2018-08-25 20:56:46.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:16:48.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,opened,2018-08-25 20:56:46.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:16:48.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.75,opened,2018-08-25 20:56:46.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:16:48.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.76,opened,2018-08-25 16:26:43.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:30:15.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.82,opened,2018-08-25 16:21:56.0, jaroslaw.dobiech@comarch.pl,2017-05-27 12:55:29.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.83,opened,2018-08-25 16:21:56.0, jaroslaw.dobiech@comarch.pl,2017-05-27 12:55:29.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.84,opened,2018-08-25 16:21:56.0, jaroslaw.dobiech@comarch.pl,2017-05-27 12:55:29.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.133,opened,2018-08-25 16:21:56.0, jaroslaw.dobiech@comarch.pl,2017-05-27 12:55:29.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.143,opened,2018-08-25 22:04:54.0, jaroslaw.dobiech@comarch.pl,2017-04-29 11:02:10.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,opened,2018-08-25 22:04:54.0, jaroslaw.dobiech@comarch.pl,2017-04-29 11:02:10.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.69,opened,2018-08-25 22:04:54.0, jaroslaw.dobiech@comarch.pl,2017-04-29 11:02:10.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.71,opened,2018-08-25 18:24:11.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:45:18.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.72,opened,2018-08-25 18:24:11.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:45:18.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.73,opened,2018-08-25 18:24:11.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:45:18.0,100902,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.74,opened,2018-08-25 17:15:29.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:34:07.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.75,opened,2018-08-25 17:15:29.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:34:07.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.76,opened,2018-08-25 17:15:29.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:34:07.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.82,opened,2018-08-25 16:23:46.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:34:52.0,8076,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,opened,2018-08-25 17:38:36.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:03:11.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.84,opened,2018-08-25 17:38:36.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:03:11.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.85,opened,2018-08-25 17:38:36.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:03:11.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.86,opened,2018-08-25 19:14:50.0, jaroslaw.dobiech@comarch.pl,2017-03-04 15:37:20.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.87,opened,2018-08-25 19:14:50.0, jaroslaw.dobiech@comarch.pl,2017-01-08 06:45:08.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.133,opened,2018-08-25 19:14:50.0, jaroslaw.dobiech@comarch.pl,2017-03-04 15:37:20.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 22:05:57.0, jaroslaw.dobiech@comarch.pl,2017-03-04 11:15:25.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.68,opened,2018-08-25 22:05:57.0, jaroslaw.dobiech@comarch.pl,2017-03-04 11:15:25.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.69,opened,2018-08-25 22:05:57.0, jaroslaw.dobiech@comarch.pl,2017-03-04 11:15:25.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.71,opened,2018-08-25 16:36:05.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:29:05.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.72,opened,2018-08-25 16:40:16.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:28:39.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.73,opened,2018-08-25 18:48:37.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:34:30.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,opened,2018-08-25 18:48:37.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:34:30.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.75,opened,2018-08-25 18:48:37.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:34:30.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.76,opened,2018-08-25 18:48:37.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:15:22.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,opened,2018-08-25 17:28:56.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:35:18.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.83,opened,2018-08-25 17:28:56.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:35:18.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.84,opened,2018-08-25 17:28:56.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:35:18.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.133,opened,2018-08-25 18:35:17.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:57:50.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.143,opened,2018-08-25 18:35:17.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:57:50.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,opened,2018-08-25 18:35:17.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:57:50.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.69,opened,2018-08-25 20:59:54.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:26:27.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.71,opened,2018-08-25 20:59:54.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:26:27.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.72,opened,2018-08-25 20:59:54.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:26:27.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.73,opened,2018-08-25 19:17:51.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:56:06.0,8076,Medium
+CVE-2017-4940 - Vmware - Esxi - Medium,10.506.35.74,opened,2018-08-25 20:44:19.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:42:55.0,205681,Medium
+CVE-2017-5753 - Intel - Processors - Spectre Issue,10.506.35.75,opened,2018-08-25 20:44:19.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:42:55.0,208998,Medium
+CVE-2017-4941 - VMware - Multiple Products - Stack Overflow Issue,10.506.35.76,opened,2018-08-25 20:44:19.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:42:55.0,205682,Medium
+CVE-2017-5753 - Multiple Vendors - Processors - Spectre Issue,10.506.35.82,opened,2018-08-25 20:44:19.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:42:55.0,205998,Medium
+CVE-2017-5715 - Intel - Processors - Spectre Issue,10.506.35.83,opened,2018-08-25 20:44:19.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:42:55.0,206000,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.84,opened,2018-08-25 16:29:18.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:42:12.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.85,opened,2018-08-25 22:02:22.0, jaroslaw.dobiech@comarch.pl,2017-03-04 11:14:16.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.86,opened,2018-08-25 22:02:22.0, jaroslaw.dobiech@comarch.pl,2017-03-04 11:14:16.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.87,opened,2018-08-25 22:02:22.0, jaroslaw.dobiech@comarch.pl,2017-03-04 11:14:16.0,101808,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.133,opened,2018-08-25 18:10:48.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:37:35.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.143,opened,2018-08-25 18:10:48.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:37:35.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.68,opened,2018-08-25 18:10:48.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:37:35.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.69,opened,2018-08-25 19:22:27.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:43:17.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.71,opened,2018-08-25 19:22:27.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:43:17.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.72,opened,2018-08-25 19:22:27.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:18:25.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.73,opened,2018-08-25 19:22:27.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:43:17.0,44305,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.74,opened,2018-08-25 17:51:29.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:16:49.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.75,opened,2018-08-25 17:51:29.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:16:49.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.76,opened,2018-08-25 17:51:29.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:16:49.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.82,opened,2018-08-25 18:48:17.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:03:34.0,8076,Medium
+Microsoft Windows 2000 Terminal Services man-in-the-middle attack,10.506.35.83,opened,2018-08-25 18:52:38.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:03:30.0,49946,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.84,opened,2018-08-25 20:50:11.0, jaroslaw.dobiech@comarch.pl,2017-09-09 09:51:04.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.133,opened,2018-08-25 20:50:11.0, jaroslaw.dobiech@comarch.pl,2017-09-09 09:51:04.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 20:50:11.0, jaroslaw.dobiech@comarch.pl,2017-09-09 09:51:04.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.68,opened,2018-08-25 16:26:03.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:37:29.0,8076,Medium
+CVE-2017-5753 - Intel - Processors - Spectre Issue,10.506.35.69,opened,2018-08-25 21:54:47.0, jaroslaw.dobiech@comarch.pl,2018-06-30 22:20:36.0,208998,Medium
+CVE-2017-4940 - Vmware - Esxi - Medium,10.506.35.71,opened,2018-08-25 21:54:47.0, jaroslaw.dobiech@comarch.pl,2018-06-30 22:20:36.0,205681,Medium
+CVE-2017-5753 - Multiple Vendors - Processors - Spectre Issue,10.506.35.72,opened,2018-08-25 21:54:47.0, jaroslaw.dobiech@comarch.pl,2018-06-30 22:20:36.0,205998,Medium
+CVE-2017-4941 - VMware - Multiple Products - Stack Overflow Issue,10.506.35.73,opened,2018-08-25 21:54:47.0, jaroslaw.dobiech@comarch.pl,2018-06-30 22:20:36.0,205682,Medium
+CVE-2017-5715 - Intel - Processors - Spectre Issue,10.506.35.74,opened,2018-08-25 21:54:47.0, jaroslaw.dobiech@comarch.pl,2018-06-30 22:20:36.0,206000,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.75,opened,2018-08-25 18:47:37.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:07:27.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,opened,2018-08-25 17:23:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:29:17.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.82,opened,2018-08-25 17:23:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:29:17.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,opened,2018-08-25 17:23:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:29:17.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.84,opened,2018-08-25 19:06:32.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:23:59.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.85,opened,2018-08-25 19:15:47.0, jaroslaw.dobiech@comarch.pl,2017-01-08 06:46:47.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.86,opened,2018-08-25 17:56:24.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:15:37.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.87,opened,2018-08-25 17:56:24.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:15:37.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.133,opened,2018-08-25 17:56:24.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:15:37.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 18:35:49.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:24:09.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.68,opened,2018-08-25 18:35:49.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:24:09.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.69,opened,2018-08-25 18:35:49.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:24:09.0,100902,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.71,opened,2018-08-25 17:05:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:43:39.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.72,opened,2018-08-25 17:05:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:43:39.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.73,opened,2018-08-25 17:05:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:43:39.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.74,opened,2018-08-25 19:20:55.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:27:22.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.75,opened,2018-08-25 16:23:25.0, jaroslaw.dobiech@comarch.pl,2017-03-04 12:22:49.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.76,opened,2018-08-25 21:45:53.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:30:26.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.82,opened,2018-08-25 21:45:53.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:30:26.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.83,opened,2018-08-25 21:45:53.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:30:26.0,100902,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.84,opened,2018-08-25 17:43:22.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:09:25.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.133,opened,2018-08-25 17:43:22.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:09:25.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.143,opened,2018-08-25 17:43:22.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:09:25.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.68,opened,2018-08-25 18:31:22.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:52:54.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.69,opened,2018-08-25 18:31:22.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:52:54.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.71,opened,2018-08-25 18:31:22.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:52:54.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,opened,2018-08-25 19:01:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:19:03.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.73,opened,2018-08-25 19:01:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:19:03.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,opened,2018-08-25 19:01:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:19:03.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.75,opened,2018-08-25 17:37:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:57:50.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.76,opened,2018-08-25 17:37:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:57:50.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.82,opened,2018-08-25 17:37:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:57:50.0,101808,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,opened,2018-08-25 18:03:42.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:24:06.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 18:03:42.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:24:06.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.85,opened,2018-08-25 18:03:42.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:24:06.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.86,opened,2018-08-25 16:26:23.0, jaroslaw.dobiech@comarch.pl,2017-03-04 12:25:14.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.87,opened,2018-08-25 17:46:57.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:38:19.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.133,opened,2018-08-25 17:46:57.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:38:19.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.143,opened,2018-08-25 17:46:57.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:38:19.0,44305,Medium
+Microsoft Windows 2000 Terminal Services man-in-the-middle attack,10.506.35.68,opened,2018-08-25 16:23:05.0, jaroslaw.dobiech@comarch.pl,2017-03-04 12:27:20.0,49946,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.69,opened,2018-08-25 19:12:21.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:19:10.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.71,opened,2018-08-25 19:20:52.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:05:50.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.72,opened,2018-08-25 18:37:40.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:09:00.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.73,opened,2018-08-25 18:37:40.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:09:00.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.74,opened,2018-08-25 18:37:40.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:09:00.0,100902,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.75,opened,2018-08-25 22:34:02.0, jaroslaw.dobiech@comarch.pl,2017-03-04 11:48:49.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.76,opened,2018-08-25 22:34:02.0, jaroslaw.dobiech@comarch.pl,2017-03-04 11:48:49.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.82,opened,2018-08-25 22:34:02.0, jaroslaw.dobiech@comarch.pl,2017-03-04 11:48:49.0,44305,Medium
+CVE-2014-3506 - OpenSSL - Denial of Service Issue,10.506.35.83,opened,2018-08-25 19:23:08.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:19:01.0,136382,Medium
+CVE-2014-0198 - OpenSSL - Denial of Service Issue,10.506.35.84,opened,2018-08-25 19:23:08.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:19:01.0,134838,Medium
+CVE-2014-3507 - OpenSSL - Denial of Service Issue,10.506.35.133,opened,2018-08-25 19:23:08.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:19:01.0,136381,Medium
+CVE-2014-0221 - OpenSSL - Denial of Service Issue,10.506.35.143,opened,2018-08-25 19:23:08.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:19:01.0,135266,Medium
+CVE-2014-3509 - OpenSSL - Denial of Service Issue,10.506.35.68,opened,2018-08-25 19:23:08.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:19:01.0,136379,Medium
+CVE-2014-3505 - OpenSSL - Double Free Issue,10.506.35.69,opened,2018-08-25 19:23:08.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:19:01.0,136383,Medium
+CVE-2014-3568 - OpenSSL - Security Bypass Issue,10.506.35.71,opened,2018-08-25 19:23:08.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:19:01.0,137713,Medium
+CVE-2014-3470 - OpenSSL - Denial of Service Issue,10.506.35.72,opened,2018-08-25 19:23:08.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:19:01.0,135255,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.73,opened,2018-08-25 19:23:08.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:19:01.0,8076,Medium
+CVE-2014-5139 - OpenSSL - Denial of Service Issue,10.506.35.74,opened,2018-08-25 19:23:08.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:19:01.0,136375,Medium
+CVE-2014-3510 - OpenSSL - Denial of Service Issue,10.506.35.75,opened,2018-08-25 19:23:08.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:19:01.0,136378,Medium
+CVE-2014-0195 - OpenSSL - Code Execution Issue,10.506.35.76,opened,2018-08-25 19:23:08.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:19:01.0,135267,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.82,opened,2018-08-25 16:20:04.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:18:12.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.83,opened,2018-08-25 16:29:39.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:46:14.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 22:50:10.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:17:27.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.85,opened,2018-08-25 22:50:10.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:17:27.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.86,opened,2018-08-25 22:50:10.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:17:27.0,100902,Medium
+CVE-2015-2808 - RC4 Algorithm - Bar Mitzvah Issue,10.506.35.87,opened,2018-08-25 09:20:55.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:21:03.0,161204,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.133,opened,2018-08-25 09:20:55.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:00:35.0,44305,Medium
+CVE-2013-2566 - RC4 - Plaintext-Recovery Issue,10.506.35.143,opened,2018-08-25 09:20:55.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:21:03.0,92441,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,opened,2018-08-25 09:20:55.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:00:35.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.69,opened,2018-08-25 09:20:55.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:00:35.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.71,opened,2018-08-25 19:01:26.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:13:37.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,opened,2018-08-25 19:01:26.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:13:37.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.73,opened,2018-08-25 19:01:26.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:13:37.0,101808,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,opened,2018-08-25 18:27:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:49:02.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.75,opened,2018-08-25 18:27:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:49:02.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,opened,2018-08-25 18:27:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:49:02.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.82,opened,2018-08-25 19:04:14.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:27:25.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.83,opened,2018-08-25 19:17:02.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:49:17.0,8076,Medium
+CVE-2014-5139 - OpenSSL - Denial of Service Issue,10.506.35.84,opened,2018-08-25 16:53:04.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:31:15.0,136375,Medium
+CVE-2014-3506 - OpenSSL - Denial of Service Issue,10.506.35.133,opened,2018-08-25 16:53:04.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:31:15.0,136382,Medium
+CVE-2014-3470 - OpenSSL - Denial of Service Issue,10.506.35.143,opened,2018-08-25 16:53:04.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:31:15.0,135255,Medium
+CVE-2014-0221 - OpenSSL - Denial of Service Issue,10.506.35.68,opened,2018-08-25 16:53:04.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:31:15.0,135266,Medium
+CVE-2014-3510 - OpenSSL - Denial of Service Issue,10.506.35.69,opened,2018-08-25 16:53:04.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:31:15.0,136378,Medium
+CVE-2014-3505 - OpenSSL - Double Free Issue,10.506.35.71,opened,2018-08-25 16:53:04.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:31:15.0,136383,Medium
+CVE-2014-0198 - OpenSSL - Denial of Service Issue,10.506.35.72,opened,2018-08-25 16:53:04.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:31:15.0,134838,Medium
+CVE-2014-3568 - OpenSSL - Security Bypass Issue,10.506.35.73,opened,2018-08-25 16:53:04.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:31:15.0,137713,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.74,opened,2018-08-25 16:53:04.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:31:15.0,8076,Medium
+CVE-2014-3509 - OpenSSL - Denial of Service Issue,10.506.35.75,opened,2018-08-25 16:53:04.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:31:15.0,136379,Medium
+CVE-2014-3507 - OpenSSL - Denial of Service Issue,10.506.35.76,opened,2018-08-25 16:53:04.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:31:15.0,136381,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,opened,2018-08-25 17:23:23.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:49:50.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,opened,2018-08-25 17:23:23.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:49:50.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 17:23:23.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:49:50.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.85,opened,2018-08-25 19:00:25.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:51:11.0,8076,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.86,opened,2018-08-25 17:25:03.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:54:40.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.87,opened,2018-08-25 17:25:03.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:54:40.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,opened,2018-08-25 17:25:03.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:54:40.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 17:23:23.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:54:18.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.68,opened,2018-08-25 17:23:23.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:54:18.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.69,opened,2018-08-25 17:23:23.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:54:18.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.71,opened,2018-08-25 18:50:57.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:35:37.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.72,opened,2018-08-25 18:50:57.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:57:36.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.73,opened,2018-08-25 18:50:57.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:35:37.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,opened,2018-08-25 18:50:57.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:35:37.0,101808,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,opened,2018-08-25 22:05:26.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:15:40.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,opened,2018-08-25 22:05:26.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:15:40.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.82,opened,2018-08-25 22:05:26.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:15:40.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.83,opened,2018-08-25 17:18:38.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:32:43.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 17:18:38.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:32:43.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.133,opened,2018-08-25 17:18:38.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:32:43.0,101808,Medium
+CVE-2017-5753 - Intel - Processors - Spectre Issue,10.506.35.143,opened,2018-08-25 21:41:52.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:55:20.0,208998,Medium
+CVE-2017-5715 - Intel - Processors - Spectre Issue,10.506.35.68,opened,2018-08-25 21:41:52.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:55:20.0,206000,Medium
+CVE-2017-4940 - Vmware - Esxi - Medium,10.506.35.69,opened,2018-08-25 21:41:52.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:55:20.0,205681,Medium
+CVE-2017-5753 - Multiple Vendors - Processors - Spectre Issue,10.506.35.71,opened,2018-08-25 21:41:52.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:55:20.0,205998,Medium
+CVE-2017-4941 - VMware - Multiple Products - Stack Overflow Issue,10.506.35.72,opened,2018-08-25 21:41:52.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:55:20.0,205682,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.73,opened,2018-08-25 18:06:00.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:27:43.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.74,opened,2018-08-25 18:06:00.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:27:43.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,opened,2018-08-25 18:06:00.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:27:43.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.76,opened,2018-08-25 18:49:39.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:33:48.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,opened,2018-08-25 17:25:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:35:38.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,opened,2018-08-25 17:25:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:35:38.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 17:25:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:35:38.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.85,opened,2018-08-25 19:20:04.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:05:51.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.86,opened,2018-08-25 17:32:10.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:29:17.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.87,opened,2018-08-25 17:32:10.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:29:17.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.133,opened,2018-08-25 17:32:10.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:29:17.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.143,opened,2018-08-25 19:05:04.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:21:52.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.68,opened,2018-08-25 17:55:41.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:15:08.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.69,opened,2018-08-25 17:55:41.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:15:08.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.71,opened,2018-08-25 17:55:41.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:15:08.0,100902,Medium
+CVE-2017-4941 - VMware - Multiple Products - Stack Overflow Issue,10.506.35.72,opened,2018-08-25 21:38:34.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:54:19.0,205682,Medium
+CVE-2017-4940 - Vmware - Esxi - Medium,10.506.35.73,opened,2018-08-25 21:38:34.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:54:19.0,205681,Medium
+CVE-2017-5753 - Intel - Processors - Spectre Issue,10.506.35.74,opened,2018-08-25 21:38:34.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:54:19.0,208998,Medium
+CVE-2017-5753 - Multiple Vendors - Processors - Spectre Issue,10.506.35.75,opened,2018-08-25 21:38:34.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:54:19.0,205998,Medium
+CVE-2017-5715 - Intel - Processors - Spectre Issue,10.506.35.76,opened,2018-08-25 21:38:34.0, jaroslaw.dobiech@comarch.pl,2018-06-30 21:54:19.0,206000,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.82,opened,2018-08-25 22:04:49.0, jaroslaw.dobiech@comarch.pl,2018-03-10 22:55:21.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.83,opened,2018-08-25 22:04:49.0, jaroslaw.dobiech@comarch.pl,2018-03-10 22:55:21.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.84,opened,2018-08-25 22:04:49.0, jaroslaw.dobiech@comarch.pl,2018-03-10 22:55:21.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,opened,2018-08-25 20:55:45.0, jaroslaw.dobiech@comarch.pl,2017-09-09 10:11:35.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 20:55:45.0, jaroslaw.dobiech@comarch.pl,2017-09-09 10:11:35.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.68,opened,2018-08-25 20:55:45.0, jaroslaw.dobiech@comarch.pl,2017-09-09 10:11:35.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.69,opened,2018-08-25 19:08:10.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:04:44.0,8076,Medium
+CVE-2012-2532 - MS12-073 - Microsoft - IIS - Information Disclosure Issue,10.506.35.71,opened,2018-08-25 19:08:10.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:04:44.0,88648,Medium
+CVE-2017-3732 - OpenSSL - Denial of Service Issue,10.506.35.72,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2017-09-09 09:47:35.0,180898,Medium
+CVE-2015-7547 - GNU - glibc - Multiple Buffer Overflow Issues,10.506.35.73,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:34:11.0,170411,Medium
+CVE-2017-5753 - Intel - Processors - Spectre Issue,10.506.35.74,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:35:30.0,208998,Medium
+CVE-2016-5331 - VMware - Multiple Products - HTTP Response Splitting Issue,10.506.35.75,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:34:11.0,175381,Medium
+CVE-2017-3730 - OpenSSL - Denial of Service Issue,10.506.35.76,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2017-09-09 09:47:35.0,180904,Medium
+CVE-2016-2183 - DES,10.506.35.82, Triple DES - Sweet32 Issue opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2017-09-09 09:47:35.0,173599,Medium
+CVE-2017-5753 - Multiple Vendors - Processors - Spectre Issue,10.506.35.83,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:35:30.0,205998,Medium
+CVE-2017-4940 - Vmware - Esxi - Medium,10.506.35.84,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:35:30.0,205681,Medium
+Multiple VMware products VMware Tools HGFS privilege escalation,10.506.35.85,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:34:11.0,169394,Medium
+CVE-2017-4941 - VMware - Multiple Products - Stack Overflow Issue,10.506.35.86,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:35:30.0,205682,Medium
+CVE-2017-5715 - Intel - Processors - Spectre Issue,10.506.35.87,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:35:30.0,206000,Medium
+CVE-2017-3731 - OpenSSL - Out-of-Bounds Read Issue,10.506.35.133,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2017-09-09 09:47:35.0,180899,Medium
+CVE-2015-6933 - VMware - Multiple Products - Memory Corruption Issue,10.506.35.143,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:34:11.0,169259,Medium
+CVE-2016-5330 - VMWare - Multiple Products - Untrusted Search Path Issue,10.506.35.68,opened,2018-08-25 20:43:29.0, jaroslaw.dobiech@comarch.pl,2017-01-08 05:34:11.0,175379,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.69,opened,2018-08-25 17:20:31.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:35:38.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.71,opened,2018-08-25 17:20:31.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:35:38.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.72,opened,2018-08-25 17:20:31.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:35:38.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.73,opened,2018-08-25 16:44:02.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:39:30.0,8076,Medium
+REJECTED - CVE-2015-4000 - TLS Protocol - Logjam Issue,10.506.35.74,opened,2018-08-25 18:48:17.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:11:56.0,162646,Medium
+TLS Diffie-Hellman Key Exchange information disclosure,10.506.35.75,opened,2018-08-25 18:48:17.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:11:56.0,162603,Medium
+CVE-2015-4000 - TLS Protocol - Logjam Issue,10.506.35.76,opened,2018-08-25 18:48:17.0, jaroslaw.dobiech@comarch.pl,2017-01-07 19:11:56.0,162644,Medium
+Microsoft Windows 2000 Terminal Services man-in-the-middle attack,10.506.35.82,opened,2018-08-25 18:47:37.0, jaroslaw.dobiech@comarch.pl,2017-01-07 20:11:31.0,49946,Medium
+CVE-2017-4940 - Vmware - Esxi - Medium,10.506.35.83,opened,2018-08-25 20:44:39.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:44:15.0,205681,Medium
+CVE-2017-4941 - VMware - Multiple Products - Stack Overflow Issue,10.506.35.84,opened,2018-08-25 20:44:39.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:44:15.0,205682,Medium
+CVE-2017-5715 - Intel - Processors - Spectre Issue,10.506.35.133,opened,2018-08-25 20:44:39.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:44:15.0,206000,Medium
+CVE-2017-5753 - Intel - Processors - Spectre Issue,10.506.35.143,opened,2018-08-25 20:44:39.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:44:15.0,208998,Medium
+CVE-2017-5753 - Multiple Vendors - Processors - Spectre Issue,10.506.35.68,opened,2018-08-25 20:44:39.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:44:15.0,205998,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.69,opened,2018-08-25 23:10:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:17:10.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.71,opened,2018-08-25 23:10:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:17:10.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,opened,2018-08-25 23:10:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:17:10.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.73,opened,2018-08-25 16:40:15.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:25:30.0,8076,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,opened,2018-08-25 17:26:53.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:04:09.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.75,opened,2018-08-25 17:26:53.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:04:09.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,opened,2018-08-25 17:26:53.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:04:09.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.82,opened,2018-08-25 16:38:34.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:30:35.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.83,opened,2018-08-25 16:39:07.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:31:36.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 17:26:12.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:59:19.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.85,opened,2018-08-25 17:26:12.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:59:19.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.86,opened,2018-08-25 17:26:12.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:59:19.0,101808,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.87,opened,2018-08-25 17:52:34.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:07:20.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.133,opened,2018-08-25 17:52:34.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:07:20.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.143,opened,2018-08-25 17:52:34.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:07:20.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,opened,2018-08-25 18:00:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:28:18.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.69,opened,2018-08-25 18:00:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:28:18.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.71,opened,2018-08-25 18:00:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:28:18.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.72,opened,2018-08-25 16:33:27.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:36:04.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.73,opened,2018-08-25 19:05:25.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:27:23.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.74,opened,2018-08-25 23:10:25.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:17:54.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.75,opened,2018-08-25 23:10:25.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:17:54.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.76,opened,2018-08-25 23:10:25.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:17:54.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.82,opened,2018-08-25 19:05:46.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:28:08.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.83,opened,2018-08-25 16:18:44.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:18:33.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 17:10:29.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:26:00.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,opened,2018-08-25 17:10:29.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:26:00.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 17:10:29.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:26:00.0,101808,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,opened,2018-08-25 21:55:05.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:28:28.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.69,opened,2018-08-25 21:55:05.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:28:28.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.71,opened,2018-08-25 21:55:05.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:28:28.0,44305,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.72,opened,2018-08-25 21:54:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:30:12.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.73,opened,2018-08-25 21:54:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:30:12.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,opened,2018-08-25 21:54:52.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:30:12.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.75,opened,2018-08-25 16:27:44.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:38:48.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,opened,2018-08-25 18:35:08.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:16:20.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.82,opened,2018-08-25 18:35:08.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:16:20.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.83,opened,2018-08-25 18:35:08.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:16:20.0,44305,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 18:22:48.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:41:45.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.85,opened,2018-08-25 18:22:48.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:41:45.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.86,opened,2018-08-25 18:22:48.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:41:45.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.87,opened,2018-08-25 19:07:35.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:53:54.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.133,opened,2018-08-25 18:02:09.0, jaroslaw.dobiech@comarch.pl,2017-10-21 17:12:07.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 18:02:09.0, jaroslaw.dobiech@comarch.pl,2017-10-21 17:12:07.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.68,opened,2018-08-25 18:02:09.0, jaroslaw.dobiech@comarch.pl,2017-10-21 17:12:07.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.69,opened,2018-08-25 17:39:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:05:07.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.71,opened,2018-08-25 17:39:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:05:07.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.72,opened,2018-08-25 17:39:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:05:07.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.73,opened,2018-08-25 17:31:50.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:57:17.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.74,opened,2018-08-25 17:31:50.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:57:17.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,opened,2018-08-25 17:31:50.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:57:17.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.76,opened,2018-08-25 19:18:32.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:29:35.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,opened,2018-08-25 17:19:08.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:34:05.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,opened,2018-08-25 17:19:08.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:34:05.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 17:19:08.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:34:05.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.133,opened,2018-08-25 19:06:54.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:27:29.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.143,opened,2018-08-25 16:28:04.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:44:40.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.68,opened,2018-08-25 18:57:25.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:48:07.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.69,opened,2018-08-25 19:16:43.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:52:52.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.71,opened,2018-08-25 18:43:24.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:08:41.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,opened,2018-08-25 18:43:24.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:08:41.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.73,opened,2018-08-25 18:43:24.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:08:41.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.74,opened,2018-08-25 17:17:51.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:44:29.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.75,opened,2018-08-25 17:17:51.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:44:29.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.76,opened,2018-08-25 17:17:51.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:44:29.0,101808,Medium
+Microsoft Windows 2000 Terminal Services man-in-the-middle attack,10.506.35.82,opened,2018-08-25 16:25:22.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:51:06.0,49946,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.83,opened,2018-08-25 18:31:43.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:47:17.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.84,opened,2018-08-25 18:31:43.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:47:17.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.85,opened,2018-08-25 18:31:43.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:47:17.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.86,opened,2018-08-25 19:02:51.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:27:14.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.87,opened,2018-08-25 20:56:46.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:19:50.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.133,opened,2018-08-25 20:56:46.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:19:50.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.143,opened,2018-08-25 20:56:46.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:19:50.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,opened,2018-08-25 17:26:33.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:48:34.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.69,opened,2018-08-25 17:26:33.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:48:34.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.71,opened,2018-08-25 17:26:33.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:48:34.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.72,opened,2018-08-25 18:50:36.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:35:23.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.73,opened,2018-08-25 09:21:09.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:01:08.0,100902,Medium
+CVE-2015-2808 - RC4 Algorithm - Bar Mitzvah Issue,10.506.35.74,opened,2018-08-25 09:21:09.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:21:33.0,161204,Medium
+CVE-2013-2566 - RC4 - Plaintext-Recovery Issue,10.506.35.75,opened,2018-08-25 09:21:09.0, jaroslaw.dobiech@comarch.pl,2017-01-08 07:21:33.0,92441,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.76,opened,2018-08-25 09:21:09.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:01:08.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.82,opened,2018-08-25 09:21:09.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:01:08.0,101808,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.83,opened,2018-08-25 21:53:46.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:05:14.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 21:53:46.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:05:14.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,opened,2018-08-25 21:53:46.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:05:14.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.143,opened,2018-08-25 17:23:43.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:56:09.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,opened,2018-08-25 17:23:43.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:56:09.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.69,opened,2018-08-25 17:23:43.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:56:09.0,100902,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.71,opened,2018-08-25 18:34:56.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:54:32.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.72,opened,2018-08-25 18:34:56.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:54:32.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.73,opened,2018-08-25 18:34:56.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:54:32.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.74,opened,2018-08-25 17:52:54.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:11:42.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,opened,2018-08-25 17:52:54.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:11:42.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.76,opened,2018-08-25 17:52:54.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:11:42.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.82,opened,2018-08-25 23:14:40.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:10:59.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.83,opened,2018-08-25 23:14:40.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:10:59.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.84,opened,2018-08-25 23:14:40.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:10:59.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.85,opened,2018-08-25 16:44:43.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:42:59.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.86,opened,2018-08-25 21:56:37.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:32:50.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.87,opened,2018-08-25 21:56:37.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:32:50.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.133,opened,2018-08-25 21:56:37.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:32:50.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.143,opened,2018-08-25 18:38:49.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:12:34.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.68,opened,2018-08-25 18:38:49.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:12:34.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.69,opened,2018-08-25 18:38:49.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:12:34.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.71,opened,2018-08-25 18:40:04.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:01:32.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,opened,2018-08-25 18:40:04.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:01:32.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.73,opened,2018-08-25 18:40:04.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:01:32.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.74,opened,2018-08-25 19:14:07.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:33:46.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.75,opened,2018-08-25 19:14:07.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:42:11.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,opened,2018-08-25 19:14:07.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:42:11.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.82,opened,2018-08-25 16:28:57.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:44:40.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.83,opened,2018-08-25 18:45:18.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:31:40.0,8076,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.84,opened,2018-08-25 18:31:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:53:21.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.133,opened,2018-08-25 18:31:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:53:21.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.143,opened,2018-08-25 18:31:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:53:21.0,100902,Medium
+CVE-2017-4941 - VMware - Multiple Products - Stack Overflow Issue,10.506.35.68,opened,2018-08-25 20:46:24.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:47:05.0,205682,Medium
+CVE-2017-5715 - Intel - Processors - Spectre Issue,10.506.35.69,opened,2018-08-25 20:46:24.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:47:05.0,206000,Medium
+CVE-2017-5753 - Intel - Processors - Spectre Issue,10.506.35.71,opened,2018-08-25 20:46:24.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:47:05.0,208998,Medium
+CVE-2017-4940 - Vmware - Esxi - Medium,10.506.35.72,opened,2018-08-25 20:46:24.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:47:05.0,205681,Medium
+CVE-2017-5753 - Multiple Vendors - Processors - Spectre Issue,10.506.35.73,opened,2018-08-25 20:46:24.0, jaroslaw.dobiech@comarch.pl,2018-06-30 20:47:05.0,205998,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.74,opened,2018-08-25 17:29:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:59:19.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,opened,2018-08-25 17:29:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:59:19.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,opened,2018-08-25 17:29:35.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:59:19.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.82,opened,2018-08-25 19:03:53.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:24:27.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.83,opened,2018-08-25 18:57:04.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:41:40.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 18:26:20.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:44:00.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.85,opened,2018-08-25 18:26:20.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:44:00.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.86,opened,2018-08-25 18:26:20.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:44:00.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.87,opened,2018-08-25 16:21:24.0, jaroslaw.dobiech@comarch.pl,2017-03-04 12:21:36.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.133,opened,2018-08-25 16:21:24.0, jaroslaw.dobiech@comarch.pl,2017-03-04 12:21:36.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.143,opened,2018-08-25 16:21:24.0, jaroslaw.dobiech@comarch.pl,2017-03-04 12:21:36.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.68,opened,2018-08-25 16:21:24.0, jaroslaw.dobiech@comarch.pl,2017-03-04 12:21:36.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.69,opened,2018-08-25 18:51:38.0, jaroslaw.dobiech@comarch.pl,2017-05-27 10:16:48.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.71,opened,2018-08-25 16:41:21.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:33:09.0,8076,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.72,opened,2018-08-25 21:43:00.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:06:33.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.73,opened,2018-08-25 21:43:00.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:06:33.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.74,opened,2018-08-25 21:43:00.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:06:33.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.75,opened,2018-08-25 16:34:13.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:50:09.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.76,opened,2018-08-25 19:17:11.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:50:03.0,8076,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.82,opened,2018-08-25 17:19:28.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:42:36.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.83,opened,2018-08-25 17:19:28.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:42:36.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.84,opened,2018-08-25 17:19:28.0, jaroslaw.dobiech@comarch.pl,2017-01-21 13:42:36.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,opened,2018-08-25 17:35:13.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:15:57.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.143,opened,2018-08-25 17:35:13.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:15:57.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.68,opened,2018-08-25 17:35:13.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:15:57.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.69,opened,2018-08-25 17:54:11.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:10:14.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.71,opened,2018-08-25 17:54:11.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:10:14.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,opened,2018-08-25 17:54:11.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:10:14.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.73,opened,2018-08-25 18:15:25.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:35:59.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.74,opened,2018-08-25 18:15:25.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:35:59.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.75,opened,2018-08-25 18:15:25.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:35:59.0,100902,Medium
+REJECTED - CVE-2015-4000 - TLS Protocol - Logjam Issue,10.506.35.76,opened,2018-08-25 16:15:26.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:00:06.0,162646,Medium
+CVE-2015-4000 - TLS Protocol - Logjam Issue,10.506.35.82,opened,2018-08-25 16:15:26.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:00:06.0,162644,Medium
+TLS Diffie-Hellman Key Exchange information disclosure,10.506.35.83,opened,2018-08-25 16:15:26.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:00:06.0,162603,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.84,opened,2018-08-25 20:57:06.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:18:45.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.85,opened,2018-08-25 20:57:06.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:18:45.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.86,opened,2018-08-25 20:57:06.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:18:45.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.87,opened,2018-08-25 18:30:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:11:07.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.133,opened,2018-08-25 18:30:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:11:07.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 18:30:02.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:11:07.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.68,opened,2018-08-25 18:59:10.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:20:45.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.69,opened,2018-08-25 18:46:56.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:30:37.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.71,opened,2018-08-25 16:17:16.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:14:18.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.72,opened,2018-08-25 16:15:47.0, jaroslaw.dobiech@comarch.pl,2016-06-25 06:09:14.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.73,opened,2018-08-25 21:35:31.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:28:54.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,opened,2018-08-25 21:35:31.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:28:54.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.75,opened,2018-08-25 21:35:31.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:28:54.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.76,opened,2018-08-25 16:26:03.0, jaroslaw.dobiech@comarch.pl,2017-03-04 12:22:43.0,8076,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.82,opened,2018-08-25 18:23:20.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:42:39.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.83,opened,2018-08-25 18:23:20.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:42:39.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.84,opened,2018-08-25 18:23:20.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:42:39.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.133,opened,2018-08-25 16:25:01.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:47:23.0,8076,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 17:26:12.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:28:16.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.68,opened,2018-08-25 17:26:12.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:28:16.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.69,opened,2018-08-25 17:26:12.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:28:16.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.71,opened,2018-08-25 19:01:06.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:59:06.0,8076,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,opened,2018-08-25 18:43:03.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:00:12.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.73,opened,2018-08-25 18:43:03.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:00:12.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.74,opened,2018-08-25 18:43:03.0, jaroslaw.dobiech@comarch.pl,2017-01-21 15:00:12.0,101808,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,opened,2018-08-25 17:53:41.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:19:00.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,opened,2018-08-25 17:53:41.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:19:00.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.82,opened,2018-08-25 17:53:41.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:19:00.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.83,opened,2018-08-25 18:25:56.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:47:20.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.84,opened,2018-08-25 18:25:56.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:47:20.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.85,opened,2018-08-25 18:25:56.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:47:20.0,44305,Medium
+CVE-2013-2566 - RC4 - Plaintext-Recovery Issue,10.506.35.86,opened,2018-08-25 22:59:19.0, jaroslaw.dobiech@comarch.pl,2018-05-19 23:38:29.0,92441,Medium
+CVE-2014-3566 - TLS.SSLv3 Fallback - The POODLE attack,10.506.35.87,opened,2018-08-25 22:59:19.0, jaroslaw.dobiech@comarch.pl,2018-05-19 23:38:29.0,137475,Medium
+CVE-2015-2808 - RC4 Algorithm - Bar Mitzvah Issue,10.506.35.133,opened,2018-08-25 22:59:19.0, jaroslaw.dobiech@comarch.pl,2018-05-19 23:38:29.0,161204,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.143,opened,2018-08-25 21:35:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:14:07.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.68,opened,2018-08-25 21:35:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:14:07.0,100902,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.69,opened,2018-08-25 21:35:45.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:14:07.0,101808,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.71,opened,2018-08-25 16:36:14.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:33:29.0,8076,Medium
+CVE-2014-3470 - OpenSSL - Denial of Service Issue,10.506.35.72,opened,2018-08-25 19:13:28.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:39:35.0,135255,Medium
+CVE-2014-3505 - OpenSSL - Double Free Issue,10.506.35.73,opened,2018-08-25 19:13:28.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:39:35.0,136383,Medium
+CVE-2014-3509 - OpenSSL - Denial of Service Issue,10.506.35.74,opened,2018-08-25 19:13:28.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:39:35.0,136379,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.75,opened,2018-08-25 19:13:28.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:39:35.0,8076,Medium
+CVE-2014-3506 - OpenSSL - Denial of Service Issue,10.506.35.76,opened,2018-08-25 19:13:28.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:39:35.0,136382,Medium
+CVE-2014-3510 - OpenSSL - Denial of Service Issue,10.506.35.82,opened,2018-08-25 19:13:28.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:39:35.0,136378,Medium
+CVE-2014-3507 - OpenSSL - Denial of Service Issue,10.506.35.83,opened,2018-08-25 19:13:28.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:39:35.0,136381,Medium
+CVE-2014-0198 - OpenSSL - Denial of Service Issue,10.506.35.84,opened,2018-08-25 19:13:28.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:39:35.0,134838,Medium
+CVE-2014-5139 - OpenSSL - Denial of Service Issue,10.506.35.133,opened,2018-08-25 19:13:28.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:39:35.0,136375,Medium
+CVE-2014-3568 - OpenSSL - Security Bypass Issue,10.506.35.143,opened,2018-08-25 19:13:28.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:39:35.0,137713,Medium
+CVE-2014-0221 - OpenSSL - Denial of Service Issue,10.506.35.68,opened,2018-08-25 19:13:28.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:39:35.0,135266,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.69,opened,2018-08-25 21:57:26.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:13:34.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.71,opened,2018-08-25 21:57:26.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:13:34.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,opened,2018-08-25 21:57:26.0, jaroslaw.dobiech@comarch.pl,2017-01-21 16:13:34.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.73,opened,2018-08-25 16:32:55.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:36:30.0,8076,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.74,opened,2018-08-25 18:16:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:35:39.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.75,opened,2018-08-25 18:16:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:35:39.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.76,opened,2018-08-25 18:16:47.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:35:39.0,100902,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.82,opened,2018-08-25 16:29:19.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:39:09.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.83,opened,2018-08-25 16:19:05.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:14:38.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.84,opened,2018-08-25 16:31:02.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:41:24.0,8076,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.85,opened,2018-08-25 18:09:23.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:31:22.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.86,opened,2018-08-25 18:09:23.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:31:22.0,100902,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.87,opened,2018-08-25 18:09:23.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:31:22.0,44305,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.133,opened,2018-08-25 16:34:59.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:33:50.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.143,opened,2018-08-25 16:43:21.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:34:32.0,8076,Medium
+CVE-2005-1794 - Microsoft - Windows - Remote Desktop Protocol Server Private Key Disclosure Issue,10.506.35.68,opened,2018-08-25 18:48:35.0, jaroslaw.dobiech@comarch.pl,2017-01-07 18:31:46.0,8076,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.69,opened,2018-08-25 17:54:31.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:12:03.0,101808,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.71,opened,2018-08-25 17:54:31.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:12:03.0,44305,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.72,opened,2018-08-25 17:54:31.0, jaroslaw.dobiech@comarch.pl,2017-01-21 14:12:03.0,100902,Medium
+CVE-2015-2808 - RC4 Algorithm - Bar Mitzvah Issue,10.506.35.73,opened,2018-08-25 16:30:19.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:54:36.0,161204,Medium
+RFC 1321 MD5 algorithm weak security,10.506.35.133,opened,2018-08-25 16:30:19.0, jaroslaw.dobiech@comarch.pl,2017-01-21 12:50:13.0,44305,Medium
+IETF - RFC 3279 X.509 Certificate - MD5 Signature Collision Issue,10.506.35.143,opened,2018-08-25 16:30:19.0, jaroslaw.dobiech@comarch.pl,2017-01-21 12:50:13.0,101808,Medium
+CVE-2004-2761 - MD5 - Hash-collision Issue,10.506.35.68,opened,2018-08-25 16:30:19.0, jaroslaw.dobiech@comarch.pl,2017-01-21 12:50:13.0,100902,Medium
+CVE-2013-2566 - RC4 - Plaintext-Recovery Issue,10.506.35.69,opened,2018-08-25 16:30:19.0, jaroslaw.dobiech@comarch.pl,2017-01-07 17:54:36.0,92441,Medium
+ICMP Timestamp Request,10.506.35.71,opened,2018-08-25 19:04:42.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:45:24.0,95325,Warning
+ICMP Timestamp Request,10.506.35.72,opened,2018-08-25 19:02:52.0, jaroslaw.dobiech@comarch.pl,2018-07-21 18:44:44.0,95325,Warning

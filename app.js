@@ -11,14 +11,9 @@ const bodyParser = require("body-parser");
 var AWS = require('aws-sdk');
 AWS.config.update({
     region:'eu-west-1',
-    endpoint: "apigateway.eu-west-1.amazonaws.com",
     credentials: new AWS.SharedIniFileCredentials()
 });
 var dynamodb = new AWS.DynamoDB();
-
-
-
-
 
 /* This example creates a table named Music. */
 //Rating,Category,Test type ,Count
